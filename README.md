@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1c1917&height=200&section=header&text=Joshi%20Angelo%20Adlawan&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Web%2C%20Desktop%20%26%20Mobile%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1c1917&height=200&section=header&text=Joshi%20Angelo%20Adlawan&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Web%2C%20Desktop%20%26amp%3B%20Mobile%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/Joshiii7">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Building+web%2C+desktop+%26+mobile+apps;Laravel+%2B+Angular+%2B+.NET+%2B+Flutter;Clean+code%2C+solid+architecture" alt="Typing SVG" />
